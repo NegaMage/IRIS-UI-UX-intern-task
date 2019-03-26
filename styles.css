@@ -1,0 +1,58 @@
+.header {
+  padding: 1.5vw;
+  text-align: center;
+  background: #6B6E70;
+  font-size: 4vw;
+}
+
+.body-wrapper{
+  font-family: "Helvetica";
+  background: #222629;
+  color: white;
+}
+
+.subhead{
+  background: #61892F;
+padding: 2px;   
+}
+
+ul{
+  width:68%;
+  text-align: left;
+}
+hr{
+  width: 100%;
+}
+.noteblock{
+  width: 32%;
+}
+ 
+.intro img{
+  float: right;
+}
+
+.skills h2{
+  clear: right;
+
+}
+
+.skills ul{
+  float: right; 
+
+}
+
+.skills img{
+  clear: left;
+}
+
+
+
+
+
+.tabledata{
+  width: 100vw;
+  height: 3vh;
+  float: right;
+  background-color: #61892F;
+  text-align: center;
+}
